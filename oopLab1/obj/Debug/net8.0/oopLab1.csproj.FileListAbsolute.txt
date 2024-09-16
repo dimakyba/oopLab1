@@ -1,0 +1,15 @@
+/workspaces/oopLab1/oopLab1/bin/Debug/net8.0/oopLab1
+/workspaces/oopLab1/oopLab1/bin/Debug/net8.0/oopLab1.deps.json
+/workspaces/oopLab1/oopLab1/bin/Debug/net8.0/oopLab1.runtimeconfig.json
+/workspaces/oopLab1/oopLab1/bin/Debug/net8.0/oopLab1.dll
+/workspaces/oopLab1/oopLab1/bin/Debug/net8.0/oopLab1.pdb
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/oopLab1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/oopLab1.AssemblyInfoInputs.cache
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/oopLab1.AssemblyInfo.cs
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/oopLab1.csproj.CoreCompileInputs.cache
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/oopLab1.sourcelink.json
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/oopLab1.dll
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/refint/oopLab1.dll
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/oopLab1.pdb
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/oopLab1.genruntimeconfig.cache
+/workspaces/oopLab1/oopLab1/obj/Debug/net8.0/ref/oopLab1.dll
