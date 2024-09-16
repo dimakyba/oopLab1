@@ -29,7 +29,8 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        ArithmeticProgression gaysex = new();
+        
     }
 }
 
@@ -38,11 +39,26 @@ class ArithmeticProgression
 {
     int firstElement;
     int difference;
+    int amount;
     int sumOfSequence;
 
-    public ArithmeticProgression(int firstElement, int difference)
+    public ArithmeticProgression(int firstElement, int difference, int amount)
     {
         this.firstElement = firstElement;
         this.difference = difference;
+        this.amount = amount;
     }
+    public ArithmeticProgression()
+    {
+        this.firstElement =0;
+        this.difference = 0;
+        this.amount = 0;
+        
+    }
+
+    int SumOfSequence(int firstElement, int difference, int amount) {
+        return (firstElement*2 + difference*(amount-1))/2*amount;
+    }
+
+    
 }
